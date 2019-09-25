@@ -17,17 +17,17 @@ Consider  the first order wave equation:
 
 where u, the speed of sound, is 250m/s. Assume that a disturbance is introduced in a one-dimensional long tube of length L= 400mwith both ends closed. The imposed boundary conditions are:
 
-![](Assets/Analitical_part1)
+![Alt text](http://www.sciweavers.org/download/Tex2Img_1569427265.jpg)
 
-![](http://www.sciweavers.org/download/Tex2Img_1569427454.jpg)
+![Alt text](http://www.sciweavers.org/download/Tex2Img_1569427454.jpg)
 
 The analytical solution is the following:
 
-![](http://www.sciweavers.org/download/Tex2Img_1569430086.jpg)
+![Alt text](http://www.sciweavers.org/download/Tex2Img_1569430086.jpg)
 
-![](http://www.sciweavers.org/download/Tex2Img_1569430051.jpg)
+![Alt text](http://www.sciweavers.org/download/Tex2Img_1569430051.jpg)
 
-![](http://www.sciweavers.org/download/Tex2Img_1569430124.jpg)
+![Alt text](http://www.sciweavers.org/download/Tex2Img_1569430124.jpg)
 
 We must use the following methods:
   + Explicit Upwind (forward time, backward space)
