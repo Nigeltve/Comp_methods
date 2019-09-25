@@ -10,9 +10,7 @@ The following problem was used to demonstrate our understanding of numerical sch
 
 Consider  the first order wave equation:
 
-
-![alt text](http://www.sciweavers.org/download/Tex2Img_1569426162.jpg)
-
+ (df/dt) + u(df/dx) = 0
 
 
 where u, the speed of sound, is 250m/s. Assume that a disturbance is introduced in a one-dimensional long tube of length L= 400mwith both ends closed. The imposed boundary conditions are:
