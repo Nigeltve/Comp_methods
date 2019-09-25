@@ -1,4 +1,4 @@
-# Computational methods
+﻿# Computational methods
 ---
 
 ### Task
@@ -17,17 +17,16 @@ Consider  the first order wave equation:
 
 where u, the speed of sound, is 250m/s. Assume that a disturbance is introduced in a one-dimensional long tube of length L= 400mwith both ends closed. The imposed boundary conditions are:
 
-![Alt text](http://www.sciweavers.org/download/Tex2Img_1569427265.jpg)
-
-![Alt text](http://www.sciweavers.org/download/Tex2Img_1569427454.jpg)
+x = 0 --------------> f(0,t) = 0
+x = L --------------> f(L,t) = 0
 
 The analytical solution is the following:
 
-![Alt text](http://www.sciweavers.org/download/Tex2Img_1569430086.jpg)
+f (x, t) = 0 --------------> 0 ≤x ≤ 50+250t
 
-![Alt text](http://www.sciweavers.org/download/Tex2Img_1569430051.jpg)
+f (x, t) = 100 (sin( π (x − 50 − 250t)/ 60) --------------> (50 + 250t) ≤x ≤ (110+250t)
 
-![Alt text](http://www.sciweavers.org/download/Tex2Img_1569430124.jpg)
+f (x, t) = 0  --------------> (110 + 250t) ≤x ≤ L
 
 We must use the following methods:
   + Explicit Upwind (forward time, backward space)
