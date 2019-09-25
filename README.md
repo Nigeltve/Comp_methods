@@ -17,7 +17,7 @@ Consider  the first order wave equation:
 
 where u, the speed of sound, is 250m/s. Assume that a disturbance is introduced in a one-dimensional long tube of length L= 400mwith both ends closed. The imposed boundary conditions are:
 
-![](http://www.sciweavers.org/download/Tex2Img_1569427265.jpg)
+![](Assets/Analitical_part1)
 
 ![](http://www.sciweavers.org/download/Tex2Img_1569427454.jpg)
 
