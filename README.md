@@ -16,6 +16,7 @@ Consider  the first order wave equation:
 where u, the speed of sound, is 250m/s. Assume that a disturbance is introduced in a one-dimensional long tube of length L= 400mwith both ends closed. The imposed boundary conditions are:
 
 x = 0 --------------> f(0,t) = 0
+
 x = L --------------> f(L,t) = 0
 
 The analytical solution is the following:
